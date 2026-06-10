@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/WebSalta3D/static/js/main.d3dcab53.chunk.js",
-    "main.js.map": "/WebSalta3D/static/js/main.d3dcab53.chunk.js.map",
+    "main.js": "/WebSalta3D/static/js/main.53cb766d.chunk.js",
+    "main.js.map": "/WebSalta3D/static/js/main.53cb766d.chunk.js.map",
     "runtime-main.js": "/WebSalta3D/static/js/runtime-main.216e4fa7.js",
     "runtime-main.js.map": "/WebSalta3D/static/js/runtime-main.216e4fa7.js.map",
     "static/css/2.26089962.chunk.css": "/WebSalta3D/static/css/2.26089962.chunk.css",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.216e4fa7.js",
     "static/css/2.26089962.chunk.css",
     "static/js/2.aa0e4823.chunk.js",
-    "static/js/main.d3dcab53.chunk.js"
+    "static/js/main.53cb766d.chunk.js"
   ]
 }

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/WebSalta3D/static/js/main.bbce759e.chunk.js",
-    "main.js.map": "/WebSalta3D/static/js/main.bbce759e.chunk.js.map",
-    "runtime-main.js": "/WebSalta3D/static/js/runtime-main.216e4fa7.js",
-    "runtime-main.js.map": "/WebSalta3D/static/js/runtime-main.216e4fa7.js.map",
+    "main.js": "/WebSalta3D/static/js/main.c0da6995.chunk.js",
+    "main.js.map": "/WebSalta3D/static/js/main.c0da6995.chunk.js.map",
+    "runtime-main.js": "/WebSalta3D/static/js/runtime-main.03aee141.js",
+    "runtime-main.js.map": "/WebSalta3D/static/js/runtime-main.03aee141.js.map",
     "static/css/2.26089962.chunk.css": "/WebSalta3D/static/css/2.26089962.chunk.css",
-    "static/js/2.aa0e4823.chunk.js": "/WebSalta3D/static/js/2.aa0e4823.chunk.js",
-    "static/js/2.aa0e4823.chunk.js.map": "/WebSalta3D/static/js/2.aa0e4823.chunk.js.map",
-    "static/js/3.8896eeeb.chunk.js": "/WebSalta3D/static/js/3.8896eeeb.chunk.js",
-    "static/js/3.8896eeeb.chunk.js.map": "/WebSalta3D/static/js/3.8896eeeb.chunk.js.map",
+    "static/js/2.cfaa68c4.chunk.js": "/WebSalta3D/static/js/2.cfaa68c4.chunk.js",
+    "static/js/2.cfaa68c4.chunk.js.map": "/WebSalta3D/static/js/2.cfaa68c4.chunk.js.map",
+    "static/js/3.b5d64f5b.chunk.js": "/WebSalta3D/static/js/3.b5d64f5b.chunk.js",
+    "static/js/3.b5d64f5b.chunk.js.map": "/WebSalta3D/static/js/3.b5d64f5b.chunk.js.map",
     "static/js/4.c90037d2.chunk.js": "/WebSalta3D/static/js/4.c90037d2.chunk.js",
     "static/js/4.c90037d2.chunk.js.map": "/WebSalta3D/static/js/4.c90037d2.chunk.js.map",
     "static/js/5.c5f48b98.chunk.js": "/WebSalta3D/static/js/5.c5f48b98.chunk.js",
     "static/js/5.c5f48b98.chunk.js.map": "/WebSalta3D/static/js/5.c5f48b98.chunk.js.map",
     "index.html": "/WebSalta3D/index.html",
     "static/css/2.26089962.chunk.css.map": "/WebSalta3D/static/css/2.26089962.chunk.css.map",
-    "static/js/2.aa0e4823.chunk.js.LICENSE.txt": "/WebSalta3D/static/js/2.aa0e4823.chunk.js.LICENSE.txt",
-    "static/js/3.8896eeeb.chunk.js.LICENSE.txt": "/WebSalta3D/static/js/3.8896eeeb.chunk.js.LICENSE.txt",
+    "static/js/2.cfaa68c4.chunk.js.LICENSE.txt": "/WebSalta3D/static/js/2.cfaa68c4.chunk.js.LICENSE.txt",
+    "static/js/3.b5d64f5b.chunk.js.LICENSE.txt": "/WebSalta3D/static/js/3.b5d64f5b.chunk.js.LICENSE.txt",
     "static/js/4.c90037d2.chunk.js.LICENSE.txt": "/WebSalta3D/static/js/4.c90037d2.chunk.js.LICENSE.txt",
     "static/js/5.c5f48b98.chunk.js.LICENSE.txt": "/WebSalta3D/static/js/5.c5f48b98.chunk.js.LICENSE.txt",
     "static/media/capabase_1.458b8529.png": "/WebSalta3D/static/media/capabase_1.458b8529.png",
@@ -24,9 +24,9 @@
     "static/media/capabase_3.3f760275.png": "/WebSalta3D/static/media/capabase_3.3f760275.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.216e4fa7.js",
+    "static/js/runtime-main.03aee141.js",
     "static/css/2.26089962.chunk.css",
-    "static/js/2.aa0e4823.chunk.js",
-    "static/js/main.bbce759e.chunk.js"
+    "static/js/2.cfaa68c4.chunk.js",
+    "static/js/main.c0da6995.chunk.js"
   ]
 }

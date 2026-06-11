@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/salta3d/static/js/main.b36338bc.chunk.js",
-    "main.js.map": "/salta3d/static/js/main.b36338bc.chunk.js.map",
+    "main.js": "/salta3d/static/js/main.f9e6453e.chunk.js",
+    "main.js.map": "/salta3d/static/js/main.f9e6453e.chunk.js.map",
     "runtime-main.js": "/salta3d/static/js/runtime-main.cc474684.js",
     "runtime-main.js.map": "/salta3d/static/js/runtime-main.cc474684.js.map",
     "static/css/2.26089962.chunk.css": "/salta3d/static/css/2.26089962.chunk.css",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.cc474684.js",
     "static/css/2.26089962.chunk.css",
     "static/js/2.f098ca5c.chunk.js",
-    "static/js/main.b36338bc.chunk.js"
+    "static/js/main.f9e6453e.chunk.js"
   ]
 }

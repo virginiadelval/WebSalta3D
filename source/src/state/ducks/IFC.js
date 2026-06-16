@@ -1,5 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit'
-
+// Ejemplo si usas IFCLoader
+ifcLoader.ifcManager.setWasmPath('/salta3D/');
 const IFC = createSlice({
   name: 'IFC',
   initialState: {

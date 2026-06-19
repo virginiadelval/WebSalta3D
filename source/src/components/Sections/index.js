@@ -21,6 +21,10 @@ import PlusvaliaRights from 'components/Sections/SubSection/PlusvaliaRights'
 import IFC from './SubSection/IFC'
 import Patrimony from './SubSection/Patrimony'
 import CadastreSearch from 'components/Sections/SubSection/CadastreSearch'
+import PrivateWorks from 'components/Sections/SubSection/PrivateWorks'
+import Transfer from 'components/Sections/SubSection/Transfer'
+
+import TPC from 'components/Sections/SubSection/TPC'
 
 const Section = () => {
   const isShow = useSelector((state) => state.categories.sectionOpen)
@@ -42,6 +46,8 @@ const Section = () => {
     ['CadastreSearch', CadastreSearch],
     ['Uses', Uses],
     ['Works', Works],
+    ['PrivateWorks', PrivateWorks],
+    ['Transfer', TPC],
     ['Affectations', Affectations],
     ['Normative', Normative],
     ['Inspections', Inspections],

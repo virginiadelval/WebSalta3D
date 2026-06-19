@@ -107,7 +107,7 @@
     "id": "wms_red_vial",
     "name": "Red Vial",
     "url": "https://geocloud.municipalidadsalta.gob.ar/geoserver/wms",
-    "layers": "public:ejes_viales_dela_ciudad2025_mayo",
+    "layers": "public:Red_Vial_CPUA2025",
     "format": "image/png",
     "transparent": true,
     "version": "1.1.1",
@@ -152,6 +152,19 @@
     "version": "1.1.1",
     "visible": false,
     "opacity": 0.7,
+    "getFeatureInfo": true,
+    "boundingBox": [[-65.50, -24.89], [-65.34, -24.70]]
+  },
+  {
+    "id": "wms_obras_privadas",
+    "name": "Obras Privadas",
+    "url": "https://geocloud.municipalidadsalta.gob.ar/geoserver/wms",
+    "layers": "private:planos_aprobados",
+    "format": "image/png",
+    "transparent": true,
+    "version": "1.1.1",
+    "visible": false,
+    "opacity": 0.8,
     "getFeatureInfo": true,
     "boundingBox": [[-65.50, -24.89], [-65.34, -24.70]]
   },
